@@ -14,8 +14,6 @@ I am a Master of Arts in Applied Quantitative Finance student at Madras School o
 ---
 
 
----
-
 ### 🎓 Education
 - *Madras School of Economics*  
   Master of Arts - MA, Applied Quantitative Finance  

@@ -7,30 +7,12 @@
 # Hi there 👋, I'm Anushka Khara! 📊📈
 
 ### About Me
-I'm an aspiring professional with a passion for uncovering stories hidden in data 🔍 and a keen interest in finance 💰. I believe that behind every beautiful composition lies mathematical precision, and I'm dedicated to crafting quantitative solutions that make financial sense. My curiosity about human behavior 🤔 and financial challenges has led me to a career in investment banking 🏦, where I can apply my analytical skills to real-world problems.
+I'm an aspiring professional with a passion for uncovering stories hidden in data 🔍 and a keen interest in finance 💰. I believe that behind every beautiful composition lies mathematical precision, and I'm dedicated to crafting quantitative solutions that make financial sense. My curiosity about human behaviour 🤔 and economic challenges has led me to a career in investment banking 🏦, where I can apply my analytical skills to real-world problems.
 
 I am a Master of Arts in Applied Quantitative Finance student at Madras School of Economics and hold a Bachelor of Science in Economics from Calcutta University 🎓.
 
 ---
 
-### 🧠 Experience
-- *Investment Banking Fellow*  
-  Marquee Fellowship Program, Internship  
-  📅 Apr 2025 - Present (5 mos)  
-  📍 Kolkata, West Bengal, India · Remote 🏡  
-  💼 Skills: Financial Literacy, Financial Economics, and more.
-
-- *Equity Research and Investment Banking Intern*  
-  Finsckool, Internship  
-  📅 Jun 2025 - Jul 2025 (2 mos)  
-  📍 India · Remote 🏡  
-  💼 Skills: Equity Research, Finance, and more.
-
-- *Equity Research Intern*  
-  ProCapitas, Internship  
-  📅 Jan 2025 - Mar 2025 (3 mos)  
-  📍 India · Remote 🏡  
-  💼 Skills: Equity Research, Microsoft Word, and more.
 
 ---
 
@@ -72,6 +54,7 @@ I am a Master of Arts in Applied Quantitative Finance student at Madras School o
 - Finance 💰  
 - Financial Analysis 📈  
 - Presentations 🗣
+- Python
 
 ---
 
